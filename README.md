@@ -40,9 +40,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#test heading">FIFO Functions</a>
+      <a href="#test heading">Heading title</a>
       <ul>
-        <li><a href="test sub heading">fifo init</a></li>
+        <li><a href="test sub heading">Sub-heading title</a></li>
       </ul>
     </li>
   </ol>
